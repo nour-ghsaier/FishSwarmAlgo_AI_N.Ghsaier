@@ -19,12 +19,6 @@ The swarm converges towards the optimal solution through iterative updates.
 
 ---
 
-## Installation
-
-To get a copy of the repository, you can clone it using the following command:
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nour-ghsaier-bb7248221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour ghsaier" height="30" width="40" /></a>
